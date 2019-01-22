@@ -3,5 +3,5 @@ chardet==3.0.4
 idna==2.6
 PyExecJS==1.5.1
 requests==2.20.0
-urllib3==1.22
+urllib3>=1.22
 beautifulsoup4==4.6.3
